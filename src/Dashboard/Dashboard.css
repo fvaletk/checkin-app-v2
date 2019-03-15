@@ -1,0 +1,9 @@
+.Dashboard__wrapper {
+  display: flex;
+}
+
+.Dashboard__container {
+  display: flex;
+  flex: 1;
+  padding: 0px 36px;
+}
