@@ -5,7 +5,10 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "semantic-ui-react": "^0.86.0",
+    "typescript": "^3.3.3333"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,5 +24,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/history": "^4.7.2",
+    "@types/react-router-dom": "^4.3.1"
+  }
 }
